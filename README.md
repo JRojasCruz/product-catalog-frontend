@@ -1,7 +1,6 @@
 
 ---
 SPA (Single Page Application) desarrollada en React 19 con Vite para consumir la API de catálogo de productos.
-Hecho con React 19 y Vite
 La app está dividida en carpetas lógicas:
 
     pages/: para las pantallas principales como el listado y detalle
