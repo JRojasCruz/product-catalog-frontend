@@ -13,15 +13,12 @@ SPA (Single Page Application) desarrollada en React 19 con Vite para consumir la
 - Node 20 o superior
 
 ## Ejecutar
-
-```bash
 # Instalar dependencias
 npm install
 
 # Ejecutar la app
 npm run dev
-
-## 
+ 
 <img width="1251" height="608" alt="image" src="https://github.com/user-attachments/assets/3668d673-99be-485a-8620-fa39e4df6346" />
 <img width="1251" height="931" alt="image" src="https://github.com/user-attachments/assets/2e8356bd-a760-4c1d-b47a-4a6e0a8a5481" />
 <img width="1251" height="432" alt="image" src="https://github.com/user-attachments/assets/8ca4abd0-a076-41fd-b0bf-eec7d3c6e047" />
