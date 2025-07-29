@@ -1,6 +1,18 @@
 
 ---
 SPA (Single Page Application) desarrollada en React 19 con Vite para consumir la API de catálogo de productos.
+Hecho con React 19 y Vite
+La app está dividida en carpetas lógicas:
+
+    pages/: para las pantallas principales como el listado y detalle
+
+    components/: componentes reutilizables como el formulario
+
+    services/: para manejar las llamadas a la API
+
+Todo está hecho con componentes funcionales y hooks, sin clases, siguiendo las buenas prácticas actuales de React.
+El formulario para registrar productos se abre en un modal. Se valida que los campos estén bien antes de enviarlos.
+Uso de boostrap 5 para el diseño.
 
 ## Tecnologías
 - React 19
@@ -12,11 +24,11 @@ SPA (Single Page Application) desarrollada en React 19 con Vite para consumir la
 
 - Node 20 o superior
 
-## Ejecutar
-# Instalar dependencias
+## Pasos para ejecutar
+### Instalar dependencias
 npm install
 
-# Ejecutar la app
+### Ejecutar la app
 npm run dev
  
 <img width="1251" height="608" alt="image" src="https://github.com/user-attachments/assets/3668d673-99be-485a-8620-fa39e4df6346" />
